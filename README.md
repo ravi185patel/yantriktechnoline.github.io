@@ -1,0 +1,2 @@
+# yantriktechnoline.github.io
+static
